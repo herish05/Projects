@@ -1,0 +1,74 @@
+{
+    "quiz": {
+      "title": "General Knowledge Quiz",
+      "description": "Test your general knowledge with these multiple-choice questions.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the capital of France?",
+          "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+          ],
+          "answer": "Paris",
+          "difficulty": "easy",
+          "category": "Geography"
+        },
+        {
+          "id": 2,
+          "question": "Which planet is known as the Red Planet?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "answer": "Mars",
+          "difficulty": "easy",
+          "category": "Science"
+        },
+        {
+          "id": 3,
+          "question": "Who wrote the novel '1984'?",
+          "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Ernest Hemingway"
+          ],
+          "answer": "George Orwell",
+          "difficulty": "medium",
+          "category": "Literature"
+        },
+        {
+          "id": 4,
+          "question": "Which element has the chemical symbol 'O'?",
+          "options": [
+            "Oxygen",
+            "Gold",
+            "Osmium",
+            "Zinc"
+          ],
+          "answer": "Oxygen",
+          "difficulty": "easy",
+          "category": "Science"
+        },
+        {
+          "id": 5,
+          "question": "In what year did World War II end?",
+          "options": [
+            "1940",
+            "1942",
+            "1945",
+            "1948"
+          ],
+          "answer": "1945",
+          "difficulty": "medium",
+          "category": "History"
+        }
+      ]
+    }
+  }
+  
